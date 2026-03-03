@@ -10,23 +10,23 @@
 
 <TR> <TD COLSPAN=5> &nbsp;
 <TR> <TH ALIGN=LEFT COLSPAN=5> Part II - 9
-<TR> <TD WIDTH=30%> <EM>.p.txt</EM>
+<TR> <TD WIDTH=30%> <TT>formatted.txt</TT>
      <TD WIDTH=10%> [1.0]
      <TD WIDTH=20%> &nbsp;
      <TD WIDTH=30%> sat.txt
      <TD WIDTH=10%> [1.0]
-<TR> <TD WIDTH=30%> Types
-     <TD WIDTH=10%> [1.0]
+<TR> <TD WIDTH=30%> <TT>types.txt</TT>
+     <TD WIDTH=10%> [0.5]
      <TD WIDTH=20%> &nbsp;
      <TD WIDTH=30%> thm.txt
      <TD WIDTH=10%> [1.0]
-<TR> <TD WIDTH=30%> Axioms
-     <TD WIDTH=10%> [3.0]
+<TR> <TD WIDTH=30%> <TT>sat.txt</TT>
+     <TD WIDTH=10%> [0.5]
      <TD WIDTH=20%> &nbsp;
      <TD WIDTH=30%> idv.png
      <TD WIDTH=10%> [0.5]
-<TR> <TD WIDTH=30%> Conjecture
-     <TD WIDTH=10%> [1.0]
+<TR> <TD WIDTH=30%> <TT>thm.txt</TT>
+     <TD WIDTH=10%> [0.5]
      <TD WIDTH=20%> &nbsp;
      <TD WIDTH=30%> gdv.txt
      <TD WIDTH=10%> [0.5]
