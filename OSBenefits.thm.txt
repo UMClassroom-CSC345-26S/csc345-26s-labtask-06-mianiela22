@@ -1,0 +1,9 @@
+% SZS status Theorem
+tff(os_type,type, os: $tType).
+tff(origin_type,type, origin: $tType).
+tff(computer_type,type, computer: $tType).
+tff(my_computer_runs_osx, axiom, runs(my_computer,osx)).
+tff(origin_osx, axiom, origin_of(osx)=unix).
+tff(benefits_rule, axiom, ![C:computer,O:os]:((runs(C,O)=>benefits_from(C,origin_of(O))))).
+tff(my_computer_benefits_unix, conjecture, benefits_from(my_computer,unix)).
+cnf(c_0_22, plain, ($false), inference(cn,[status(thm)],[inference(rw,[status(thm)],[c_0_20, c_0_21])]), ['proof']).

@@ -1,0 +1,15 @@
+% START OF SYSTEM OUTPUT
+Found a type os
+Found a type origin
+Found a type computer
+Found the type of benefits_from
+Found the type of runs
+Found the type of dos
+Found the type of linux
+Found the type of my_computer
+Found the type of origin_of
+Found the type of osx
+Found the type of unix
+Found the type of windows
+16 symbols checked, 0 errors
+% RESULT: CheckTyping---0.0 says Success

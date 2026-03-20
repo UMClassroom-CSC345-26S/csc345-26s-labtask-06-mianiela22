@@ -1,0 +1,2 @@
+% RESULT: iProver-SAT---3.9.3 says Satisfiable
+% SZS status Satisfiable
